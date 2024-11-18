@@ -35,7 +35,7 @@
 
 ## 📝 Get in Touch
 - 📫 Email: [your.email@example.com](mailto:your.omkartupere7176@gmail.com)
-- 🌐 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/omkar-tupere/)
+- 🌐 LinkedIn: [Omkar Tupere](https://www.linkedin.com/in/omkar-tupere/)
 - 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
 - 
 ### 💡 Let's create something amazing together!
