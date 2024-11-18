@@ -36,6 +36,6 @@
 - 📫 Email: [your.email@example.com](mailto:your.omkartupere7176@gmail.com)
 - 🌐 LinkedIn: [Omkar Tupere](https://www.linkedin.com/in/omkar-tupere/)
 - 🐦 Twitter: [@omkartupere5](https://x.com/omkartupere5)
-- 
+  
 ### 💡 Let's create something amazing together!
 
