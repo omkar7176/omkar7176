@@ -1,12 +1,13 @@
 # 👋 Hello Everyone!
 
 ### I'm Omkar Tupere 🌟
+<!---
 - 📚 **Computer Science Student**
 - 🌱 Currently learning **AI, DevOps and Python**
 - 🔭 Working on exciting projects like **Meeting Scheduler**, and **IoT Security using Blockchain**
 - 💻 Passionate about coding, problem-solving, and open-source contributions
 - 📖 Love to explore new technologies and their real-world applications
-
+--->
 ---
 
 <h3 align="left">Connect with me:</h3>
